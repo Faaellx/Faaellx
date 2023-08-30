@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <img src="https://i.pinimg.com/originals/b5/99/6b/b5996befa70fc2fdf1379877f4488fec.gif">
 <h2>Um Pouco Sobre Minha Pessoa 😳....</h2>
 <P>Sou Novato No Mundo Da Programação, mas no momento estou aprendendo e adquirindo conhecimento cursando e vendo videos, para ver se me identifico com a Area Tecnologica.<br>
+Estou Aprendendo A Mecher Com Arquivos Html,Css,JavaScript o outros no Momento.<br>
 Sou Bastante Determinado Naquilo Que Gosto De Fazer independente do que seja.</P>
 
 
